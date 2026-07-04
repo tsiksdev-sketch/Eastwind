@@ -20,7 +20,7 @@ export default function SiteHeader() {
     <header className="sticky max-w-6xl mx-auto top-0 z-50 backdrop-blur-md bg-background/85 border-b border-border/60">
       <div className="hidden md:flex items-center justify-end gap-6 px-6 lg:px-12 py-2 text-xs text-muted-foreground border-b border-border/40">
         <a href="tel:+263242133604" className="flex items-center gap-1.5 hover:text-primary transition-colors">
-          <Phone className="h-3 w-3" /> +263 242 133 604
+          <Phone className="h-3 w-3" /> +263 242 133 604 / +263 771944499
         </a>
         <a href="mailto:eastwindtrust01@gmail.com" className="hover:text-primary transition-colors">
           eastwindtrust01@gmail.com

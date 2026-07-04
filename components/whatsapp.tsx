@@ -9,7 +9,7 @@ function WhatsAppIcon({ className }: { className?: string }) {
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/263786332413?text=Hi%20Eastwind%20Trust%2C%20I'm%20interested%20in%20your%20residential%20stands."
+      href="https://wa.me/263771944499?text=Hi%20Eastwind%20Trust%2C%20I'm%20interested%20in%20your%20residential%20stands."
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat with us on WhatsApp"
