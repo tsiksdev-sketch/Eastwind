@@ -7,8 +7,7 @@ import CustomCursor from "@/components/Cursor";
 import ScrollToTop from "@/components/ScrollToTop";
 import DroneButton from "@/components/dronebutton";
 import { Toaster } from "@/components/ui/sonner";
-import { WhatsAppButton } from "@/components/whatsapp";
-
+import WhatsAppButton from "@/components/whatsapp";
 
 const geistSans = Geist({ 
   variable: "--font-geist-sans",
