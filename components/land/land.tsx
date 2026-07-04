@@ -79,7 +79,7 @@ export default function LandPage() {
           <p className="text-xs uppercase tracking-[0.25em] text-primary mb-3">Available Stands</p>
           <h2 className="text-4xl md:text-5xl font-semibold mb-12 max-w-2xl">Donybrooke Residential Stands</h2>
           <div className="rounded-3xl border border-border overflow-hidden grid lg:grid-cols-5 bg-card shadow-soft">
-            <div className="lg:col-span-2 min-h-72 bg-cover bg-center" style={{ backgroundImage: `url(/gallery-3.jpg)` }} />
+            <div className="lg:col-span-2 min-h-72 bg-cover bg-center" style={{ backgroundImage: `url(/sitemap.webp)` }} />
             <div className="lg:col-span-3 p-10 md:p-14">
               <h3 className="text-3xl font-semibold mb-3">Donybrooke, Zimre Extension</h3>
               <p className="text-muted-foreground mb-8 leading-relaxed">A planned residential development with surveyed stands, graded access roads and growing community infrastructure.</p>
